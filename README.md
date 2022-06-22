@@ -3,8 +3,10 @@ About the Project:
 
 Fast and Delight Cafe is open-source software for online order placement, food delivery and restaurant management. It is based on the Spang Framework that is an open-source application software that provide infrastructure support for developing java applications and features modules like an online food ordering system, a table reservation management system and user management.
 
+# Home Page
 ![Fast n Delight Cafe](https://i.ibb.co/9yT0Jgv/Untitled.png)
 
+# Configuration
 Built with:
 * My SQL
 * Apache Tom Web Server
